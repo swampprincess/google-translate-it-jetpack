@@ -1,0 +1,10 @@
+{
+    "id": "jid0-T5rLBR2f2bw85B4AYMBuRUyNBYI@jetpack", 
+    "license": "MPL 2.0", 
+    "author": "Erik Vold", 
+    "version": "0.1.2", 
+    "fullName": "Google Translate It",
+    "permissions": {
+      "private-browsing": true
+    }
+}
